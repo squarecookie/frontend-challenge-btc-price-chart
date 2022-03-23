@@ -4,8 +4,6 @@
 
 可用的API:
 
-[非小号公共API](https://github.com/xiaohao2019/API-docs/blob/master/PublicApi_CN.md)
-
 [CoinCap API](https://docs.coincap.io/)
 
 ## 要求
